@@ -1,0 +1,17 @@
+{
+  "presets": ["es2015"],
+  "env": {
+    "extract": {
+      "plugins": [
+        [
+          "c-3po",
+          {
+            "extract": {
+              "output": "i18n/backend.pot"
+            }
+          }
+        ]
+      ]
+    }
+  }
+}

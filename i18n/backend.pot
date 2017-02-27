@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+#: server/app.js:12
+msgid "Main page"
+msgstr ""
+
+#: common/HelloPage.js:7
+msgid "Choose locale"
+msgstr ""
+
+#: common/HelloPage.js:15
+msgid "${ 0 } hour"
+msgid_plural "${ 0 } hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: common/HelloPage.js:16
+msgid "${ 0 } minute"
+msgid_plural "${ 0 } minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: common/HelloPage.js:17
+msgid "${ 0 } second"
+msgid_plural "${ 0 } seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: common/HelloPage.js:20
+msgid "Current time is"
+msgstr ""
+
+#: common/HelloPage.js:28
+msgid "Simple full stack demo c-3po"
+msgstr ""
+
+#: common/HelloPage.js:29
+msgid "This content is pre rendered on the backend"
+msgstr ""
+
+#: common/HelloPage.js:31
+msgid "The folowing content is constantly rerendered on the frontend:"
+msgstr ""
