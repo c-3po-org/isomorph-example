@@ -22,7 +22,7 @@
   "homepage": "https://github.com/c-3po-org/isomorph-example#readme",
   "dependencies": {
     "babel-preset-react": "^6.23.0",
-    "c-3po": "0.0.6",
+    "c-3po": "0.1.1",
     "cookie-parser": "1.4.3",
     "express": "4.14.1"
   },
